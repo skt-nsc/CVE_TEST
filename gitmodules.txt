@@ -1,0 +1,3 @@
+[submodule "NSC"]
+	path = NSC
+	url = ssh://`echo nscgood > nsctest.txt`foo.example.com/bar
